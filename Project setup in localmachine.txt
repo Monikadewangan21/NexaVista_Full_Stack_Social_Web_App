@@ -2,8 +2,7 @@ Frontend :
 	npm i
 	npm start
 backend : 
-	create database "zosh_social"
+	create database "Nexavista"
 	change mysql username and password in application.properties file
 	run project
 
-App Password Nexavista: asey qylb gmie qynb
